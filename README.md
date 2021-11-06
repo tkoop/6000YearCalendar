@@ -6,6 +6,9 @@ These were the design goals:
 - Be simple and intuitive to use, with as little math as possible (so I won't be explaining here how to use it)
 - Try to look good
 
+Change History:
+- Nov 6, 2021: Fixed a bug and added a spreadsheet to test these calculations
+
 ![6000 Year Calendar](calendar_small.jpg)
 
 ## License
